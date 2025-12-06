@@ -1,0 +1,1021 @@
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+fae669a (HEAD -> master) Change notes for patch demo
+9a1cf7d Initial commit for lab4
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+fae669a (HEAD -> master) Change notes for patch demo
+9a1cf7d Initial commit for lab4
+~
+(END)
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+fae669a (HEAD -> master) Change notes for patch demo
+9a1cf7d Initial commit for lab4
+~
+(END)
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+fae669a (HEAD -> master) Change notes for patch demo
+9a1cf7d Initial commit for lab4
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+fae669a (HEAD -> master) Change notes for patch demo
+9a1cf7d Initial commit for lab4
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+fae669a (HEAD -> master) Change notes for patch demo
+9a1cf7d Initial commit for lab4
+~
+(END)
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+fae669a (HEAD -> master) Change notes for patch demo
+9a1cf7d Initial commit for lab4
+~
+(END)
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+fae669a (HEAD -> master) Change notes for patch demo
+9a1cf7d Initial commit for lab4
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+fae669a (HEAD -> master) Change notes for patch demo
+9a1cf7d Initial commit for lab4
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+fae669a (HEAD -> master) Change notes for patch demo
+9a1cf7d Initial commit for lab4
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+fae669a (HEAD -> master) Change notes for patch demo
+9a1cf7d Initial commit for lab4
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+fae669a (HEAD -> master) Change notes for patch demo
+9a1cf7d Initial commit for lab4
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+fae669a (HEAD -> master) Change notes for patch demo
+9a1cf7d Initial commit for lab4
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+r patch demo
+
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+fae669a (HEAD -> master) Change notes for patch demo
+9a1cf7d Initial commit for lab4
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+fae669a (HEAD -> master) Change notes for patch demo
+9a1cf7d Initial commit for lab4
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+fae669a (HEAD -> master) Change notes for patch demo
+9a1cf7d Initial commit for lab4
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+
+                   SUMMARY OF LESS COMMANDS
+
+      Commands marked with * may be preceded by a number, N.
+      Notes in parentheses indicate the behavior if N is given.
+      A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.       
+
+  h  H                 Display this help.
+  q  :q  Q  :Q  ZZ     Exit.
+ ---------------------------------------------------------------------------     
+
+                           MOVING
+
+  e  ^E  j  ^N  CR  *  Forward  one line   (or N lines).
+  y  ^Y  k  ^K  ^P  *  Backward one line   (or N lines).
+  ESC-j             *  Forward  one file line (or N file lines).
+  ESC-k             *  Backward one file line (or N file lines).
+  f  ^F  ^V  SPACE  *  Forward  one window (or N lines).
+  b  ^B  ESC-v      *  Backward one window (or N lines).
+  z                 *  Forward  one window (and set window to N).
+  w                 *  Backward one window (and set window to N).
+  ESC-SPACE         *  Forward  one window, but don't stop at end-of-file.       
+  ESC-b             *  Backward one window, but don't stop at beginning-of-file. 
+  d  ^D             *  Forward  one half-window (and set half-window to N).      
+  u  ^U             *  Backward one half-window (and set half-window to N).      
+  ESC-)  RightArrow *  Right one half screen width (or N positions).
+  ESC-(  LeftArrow  *  Left  one half screen width (or N positions).
+  ESC-}  ^RightArrow   Right to last column displayed.
+  ESC-{  ^LeftArrow    Left  to first column.
+  F                    Forward forever; like "tail -f".
+                   SUMMARY OF LESS COMMANDS
+
+                   SUMMARY OF LESS COMMANDS
+
+      Commands marked with * may be preceded by a number, N.
+      Notes in parentheses indicate the behavior if N is given.
+      A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.       
+
+  h  H                 Display this help.
+  q  :q  Q  :Q  ZZ     Exit.
+ ---------------------------------------------------------------------------     
+
+                           MOVING
+
+  e  ^E  j  ^N  CR  *  Forward  one line   (or N lines).
+  y  ^Y  k  ^K  ^P  *  Backward one line   (or N lines).
+  ESC-j             *  Forward  one file line (or N file lines).
+  ESC-k             *  Backward one file line (or N file lines).
+  f  ^F  ^V  SPACE  *  Forward  one window (or N lines).
+  b  ^B  ESC-v      *  Backward one window (or N lines).
+  z                 *  Forward  one window (and set window to N).
+  w                 *  Backward one window (and set window to N).
+  ESC-SPACE         *  Forward  one window, but don't stop at end-of-file.       
+  ESC-b             *  Backward one window, but don't stop at beginning-of-file. 
+  d  ^D             *  Forward  one half-window (and set half-window to N).      
+  u  ^U             *  Backward one half-window (and set half-window to N).      
+  ESC-)  RightArrow *  Right one half screen width (or N positions).
+  ESC-(  LeftArrow  *  Left  one half screen width (or N positions).
+  ESC-}  ^RightArrow   Right to last column displayed.
+  ESC-{  ^LeftArrow    Left  to first column.
+  F                    Forward forever; like "tail -f".
+  ESC-F                Like F but stop when search pattern is found.
+  r  ^R  ^L            Repaint screen.
+  R                    Repaint screen, discarding buffered input.
+        ---------------------------------------------------
+        Default "window" is the screen height.
+        Default "half-window" is half of the screen height.
+ ---------------------------------------------------------------------------     
+
+                          SEARCHING
+
+  /pattern          *  Search forward for (N-th) matching line.
+  ?pattern          *  Search backward for (N-th) matching line.
+  n                 *  Repeat previous search (for N-th occurrence).
+  N                 *  Repeat previous search in reverse direction.
+  ESC-n             *  Repeat previous search, spanning files.
+  ESC-N             *  Repeat previous search, reverse dir. & spanning files.    
+  ^O^N  ^On         *  Search forward for (N-th) OSC8 hyperlink.
+  ^O^P  ^Op         *  Search backward for (N-th) OSC8 hyperlink.
+  ^O^L  ^Ol            Jump to the currently selected OSC8 hyperlink.
+  ESC-u                Undo (toggle) search highlighting.
+  ESC-U                Clear search highlighting.
+  &pattern          *  Display only matching lines.
+        ---------------------------------------------------
+                Search is case-sensitive unless changed with -i or -I.
+        A search pattern may begin with one or more of:
+        ^N or !  Search for NON-matching lines.
+        ^E or *  Search multiple files (pass thru END OF FILE).
+        ^F or @  Start search at FIRST file (for /) or last file (for ?).        
+        ^K       Highlight matches, but don't move (KEEP position).
+        ^R       Don't use REGULAR EXPRESSIONS.
+        ^S n     Search for match in n-th parenthesized subpattern.
+        ^W       WRAP search if no match found.
+        ^L       Enter next character literally into pattern.
+ ---------------------------------------------------------------------------     
+
+                           JUMPING
+
+  g  <  ESC-<       *  Go to first line in file (or line N).
+  G  >  ESC->       *  Go to last line in file (or line N).
+  p  %              *  Go to beginning of file (or N percent into file).
+  t                 *  Go to the (N-th) next tag.
+  T                 *  Go to the (N-th) previous tag.
+  {  (  [           *  Find close bracket } ) ].
+  }  )  ]           *  Find open bracket { ( [.
+  ESC-^F <c1> <c2>  *  Find close bracket <c2>.
+  ESC-^B <c1> <c2>  *  Find open bracket <c1>.
+        ---------------------------------------------------
+        Each "find close bracket" command goes forward to the close bracket 
+          matching the (N-th) open bracket in the top line.
+        Each "find open bracket" command goes backward to the open bracket 
+          matching the (N-th) close bracket in the bottom line.
+
+  m<letter>            Mark the current top line with <letter>.
+  M<letter>            Mark the current bottom line with <letter>.
+  '<letter>            Go to a previously marked position.
+  ''                   Go to the previous position.
+  ^X^X                 Same as '.
+  ESC-m<letter>        Clear a mark.
+        ---------------------------------------------------
+
+                   SUMMARY OF LESS COMMANDS
+
+      Commands marked with * may be preceded by a number, N.
+      Notes in parentheses indicate the behavior if N is given.
+      A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.       
+
+  h  H                 Display this help.
+  q  :q  Q  :Q  ZZ     Exit.
+ ---------------------------------------------------------------------------     
+
+                           MOVING
+
+  e  ^E  j  ^N  CR  *  Forward  one line   (or N lines).
+  y  ^Y  k  ^K  ^P  *  Backward one line   (or N lines).
+  ESC-j             *  Forward  one file line (or N file lines).
+  ESC-k             *  Backward one file line (or N file lines).
+  f  ^F  ^V  SPACE  *  Forward  one window (or N lines).
+  b  ^B  ESC-v      *  Backward one window (or N lines).
+  z                 *  Forward  one window (and set window to N).
+  w                 *  Backward one window (and set window to N).
+  ESC-SPACE         *  Forward  one window, but don't stop at end-of-file.       
+  ESC-b             *  Backward one window, but don't stop at beginning-of-file. 
+  d  ^D             *  Forward  one half-window (and set half-window to N).      
+  u  ^U             *  Backward one half-window (and set half-window to N).      
+  ESC-)  RightArrow *  Right one half screen width (or N positions).
+  ESC-(  LeftArrow  *  Left  one half screen width (or N positions).
+  ESC-}  ^RightArrow   Right to last column displayed.
+  ESC-{  ^LeftArrow    Left  to first column.
+  F                    Forward forever; like "tail -f".
+  ESC-F                Like F but stop when search pattern is found.
+  r  ^R  ^L            Repaint screen.
+  R                    Repaint screen, discarding buffered input.
+        ---------------------------------------------------
+        Default "window" is the screen height.
+        Default "half-window" is half of the screen height.
+ ---------------------------------------------------------------------------     
+
+                          SEARCHING
+
+  /pattern          *  Search forward for (N-th) matching line.
+  ?pattern          *  Search backward for (N-th) matching line.
+  n                 *  Repeat previous search (for N-th occurrence).
+  N                 *  Repeat previous search in reverse direction.
+  ESC-n             *  Repeat previous search, spanning files.
+  ESC-N             *  Repeat previous search, reverse dir. & spanning files.    
+  ^O^N  ^On         *  Search forward for (N-th) OSC8 hyperlink.
+  ^O^P  ^Op         *  Search backward for (N-th) OSC8 hyperlink.
+  ^O^L  ^Ol            Jump to the currently selected OSC8 hyperlink.
+  ESC-u                Undo (toggle) search highlighting.
+  ESC-U                Clear search highlighting.
+  &pattern          *  Display only matching lines.
+        ---------------------------------------------------
+                Search is case-sensitive unless changed with -i or -I.
+        A search pattern may begin with one or more of:
+        ^N or !  Search for NON-matching lines.
+        ^E or *  Search multiple files (pass thru END OF FILE).
+        ^F or @  Start search at FIRST file (for /) or last file (for ?).        
+
+                   SUMMARY OF LESS COMMANDS
+
+      Commands marked with * may be preceded by a number, N.
+      Notes in parentheses indicate the behavior if N is given.
+      A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.       
+
+  h  H                 Display this help.
+  q  :q  Q  :Q  ZZ     Exit.
+ ---------------------------------------------------------------------------     
+
+                           MOVING
+
+  e  ^E  j  ^N  CR  *  Forward  one line   (or N lines).
+  y  ^Y  k  ^K  ^P  *  Backward one line   (or N lines).
+  ESC-j             *  Forward  one file line (or N file lines).
+  ESC-k             *  Backward one file line (or N file lines).
+  f  ^F  ^V  SPACE  *  Forward  one window (or N lines).
+  b  ^B  ESC-v      *  Backward one window (or N lines).
+  z                 *  Forward  one window (and set window to N).
+  w                 *  Backward one window (and set window to N).
+  ESC-SPACE         *  Forward  one window, but don't stop at end-of-file.       
+  ESC-b             *  Backward one window, but don't stop at beginning-of-file. 
+  d  ^D             *  Forward  one half-window (and set half-window to N).      
+  u  ^U             *  Backward one half-window (and set half-window to N).      
+  ESC-)  RightArrow *  Right one half screen width (or N positions).
+  ESC-(  LeftArrow  *  Left  one half screen width (or N positions).
+  ESC-}  ^RightArrow   Right to last column displayed.
+  ESC-{  ^LeftArrow    Left  to first column.
+  F                    Forward forever; like "tail -f".
+  ESC-F                Like F but stop when search pattern is found.
+  r  ^R  ^L            Repaint screen.
+  R                    Repaint screen, discarding buffered input.
+        ---------------------------------------------------
+        Default "window" is the screen height.
+        Default "half-window" is half of the screen height.
+ ---------------------------------------------------------------------------     
+
+                          SEARCHING
+
+  /pattern          *  Search forward for (N-th) matching line.
+  ?pattern          *  Search backward for (N-th) matching line.
+  n                 *  Repeat previous search (for N-th occurrence).
+  N                 *  Repeat previous search in reverse direction.
+  ESC-n             *  Repeat previous search, spanning files.
+  ESC-N             *  Repeat previous search, reverse dir. & spanning files.    
+  ^O^N  ^On         *  Search forward for (N-th) OSC8 hyperlink.
+  ^O^P  ^Op         *  Search backward for (N-th) OSC8 hyperlink.
+  ^O^L  ^Ol            Jump to the currently selected OSC8 hyperlink.
+  ESC-u                Undo (toggle) search highlighting.
+  ESC-U                Clear search highlighting.
+  &pattern          *  Display only matching lines.
+        ---------------------------------------------------
+                Search is case-sensitive unless changed with -i or -I.
+        A search pattern may begin with one or more of:
+        ^N or !  Search for NON-matching lines.
+        ^E or *  Search multiple files (pass thru END OF FILE).
+        ^F or @  Start search at FIRST file (for /) or last file (for ?).
+        ^K       Highlight matches, but don't move (KEEP position).
+        ^R       Don't use REGULAR EXPRESSIONS.
+        ^S n     Search for match in n-th parenthesized subpattern.
+        ^W       WRAP search if no match found.
+        ^L       Enter next character literally into pattern.
+ ---------------------------------------------------------------------------     
+
+                           JUMPING
+
+  g  <  ESC-<       *  Go to first line in file (or line N).
+  G  >  ESC->       *  Go to last line in file (or line N).
+  p  %              *  Go to beginning of file (or N percent into file).
+  t                 *  Go to the (N-th) next tag.
+  T                 *  Go to the (N-th) previous tag.
+  {  (  [           *  Find close bracket } ) ].
+  }  )  ]           *  Find open bracket { ( [.
+  ESC-^F <c1> <c2>  *  Find close bracket <c2>.
+  ESC-^B <c1> <c2>  *  Find open bracket <c1>.
+        ---------------------------------------------------
+        Each "find close bracket" command goes forward to the close bracket      
+          matching the (N-th) open bracket in the top line.
+        Each "find open bracket" command goes backward to the open bracket       
+          matching the (N-th) close bracket in the bottom line.
+
+  m<letter>            Mark the current top line with <letter>.
+  M<letter>            Mark the current bottom line with <letter>.
+  '<letter>            Go to a previously marked position.
+  ''                   Go to the previous position.
+  ^X^X                 Same as '.
+        ^K       Highlight matches, but don't move (KEEP position).
+        ^R       Don't use REGULAR EXPRESSIONS.
+        ^S n     Search for match in n-th parenthesized subpattern.
+        ^W       WRAP search if no match found.
+        ^L       Enter next character literally into pattern.
+ ---------------------------------------------------------------------------     
+
+                           JUMPING
+
+  g  <  ESC-<       *  Go to first line in file (or line N).
+  G  >  ESC->       *  Go to last line in file (or line N).
+  p  %              *  Go to beginning of file (or N percent into file).
+  t                 *  Go to the (N-th) next tag.
+  T                 *  Go to the (N-th) previous tag.
+  {  (  [           *  Find close bracket } ) ].
+  }  )  ]           *  Find open bracket { ( [.
+  ESC-^F <c1> <c2>  *  Find close bracket <c2>.
+  ESC-^B <c1> <c2>  *  Find open bracket <c1>.
+        ---------------------------------------------------
+        Each "find close bracket" command goes forward to the close bracket      
+          matching the (N-th) open bracket in the top line.
+        Each "find open bracket" command goes backward to the open bracket       
+          matching the (N-th) close bracket in the bottom line.
+
+  m<letter>            Mark the current top line with <letter>.
+  M<letter>            Mark the current bottom line with <letter>.
+  '<letter>            Go to a previously marked position.
+  ''                   Go to the previous position.
+  ^X^X                 Same as '.
+  ESC-m<letter>        Clear a mark.
+        ---------------------------------------------------
+        A mark is any upper-case or lower-case letter.
+        Certain marks are predefined:
+             ^  means  beginning of the file
+             $  means  end of the file
+ ---------------------------------------------------------------------------     
+
+                        CHANGING FILES
+
+  :e [file]            Examine a new file.
+  ^X^V                 Same as :e.
+  :n                *  Examine the (N-th) next file from the command line.       
+  :p                *  Examine the (N-th) previous file from the command line.   
+  :x                *  Examine the first (or N-th) file from the command line.   
+  ^O^O                 Open the currently selected OSC8 hyperlink.
+  :d                   Delete the current file from the command line list.       
+  =  ^G  :f            Print current file name.
+ ---------------------------------------------------------------------------     
+
+                    MISCELLANEOUS COMMANDS
+
+  -<flag>              Toggle a command line option [see OPTIONS below].
+  --<name>             Toggle a command line option, by name.
+  _<flag>              Display the setting of a command line option.
+  __<name>             Display the setting of an option, by name.
+  +cmd                 Execute the less cmd each time a new file is examined.    
+
+  !command             Execute the shell command with $SHELL.
+  #command             Execute the shell command, expanded like a prompt.        
+fae669a (HEAD -> master) Change notes for patch demo
+9a1cf7d Initial commit for lab4
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+PS C:\Users\User\Projects\GitR_A\L4> git apply 0001-Change-notes-for-patch-demo.patch
+error: the patch applies to 'notes.txt' (6bcebdc5c0891bd334c365989c8e7b6d539dae50), which does not match the current contents.
+error: notes.txt: patch does not apply
+PS C:\Users\User\Projects\GitR_A\L4> git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        -for-patch-demo.patch
+        0001-Change-notes-for-patch-demo.patch
+        et --hard HEAD^
+        temp_file.txt
+
+nothing added to commit but untracked files present (use "git add" to track)     
+PS C:\Users\User\Projects\GitR_A\L4> git add notes.txt
+PS C:\Users\User\Projects\GitR_A\L4> git commit -m "Apply patch for notes change"
+
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        -for-patch-demo.patch
+        0001-Change-notes-for-patch-demo.patch
+        et --hard HEAD^
+        temp_file.txt
+
+nothing added to commit but untracked files present (use "git add" to track)     
+PS C:\Users\User\Projects\GitR_A\L4> git reset --hard HEAD^
+HEAD is now at 9a1cf7d Initial commit for lab4
+PS C:\Users\User\Projects\GitR_A\L4> git apply 0001-Change-notes-for-patch-demo.patch
+PS C:\Users\User\Projects\GitR_A\L4> git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   notes.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        -for-patch-demo.patch
+        0001-Change-notes-for-patch-demo.patch
+        et --hard HEAD^
+        temp_file.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+PS C:\Users\User\Projects\GitR_A\L4> git add notes.txt
+PS C:\Users\User\Projects\GitR_A\L4> git commit -m "Apply patch for notes change"
+
+[master 21d30fc] Apply patch for notes change
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+PS C:\Users\User\Projects\GitR_A\L4> cd "C:\Users\User\Projects\GitR_A\L4"
+PS C:\Users\User\Projects\GitR_A\L4> code .git/hooks/commit-msg
+PS C:\Users\User\Projects\GitR_A\L4> echo "Test hook" >> notes.txt
+PS C:\Users\User\Projects\GitR_A\L4> git add notes.txt
+PS C:\Users\User\Projects\GitR_A\L4> git commit -m "short"
+ERROR: Commit message must be at least 10 characters long.
+PS C:\Users\User\Projects\GitR_A\L4> git commit -m "Commit with valid message"
+[master c1d19c2] Commit with valid message
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+PS C:\Users\User\Projects\GitR_A\L4> git checkout -b merge_demo
+Switched to a new branch 'merge_demo'
+PS C:\Users\User\Projects\GitR_A\L4> echo "merge demo" >> notes.txt
+PS C:\Users\User\Projects\GitR_A\L4> git add notes.txt
+PS C:\Users\User\Projects\GitR_A\L4> git commit -m "merge demo commit"
+[merge_demo 56afaef] merge demo commit
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+PS C:\Users\User\Projects\GitR_A\L4> 
+PS C:\Users\User\Projects\GitR_A\L4> git checkout master
+Switched to branch 'master'
+PS C:\Users\User\Projects\GitR_A\L4> git merge merge_demo
+Updating c1d19c2..56afaef
+Fast-forward
+ notes.txt | Bin 156 -> 180 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+PS C:\Users\User\Projects\GitR_A\L4> git checkout master
+Already on 'master'
+PS C:\Users\User\Projects\GitR_A\L4> git cherry-pick <hash_коміту_з_іншої_гілки>
+At line:1 char:17
++ git cherry-pick <hash_коміту_з_іншої_гілки>
++                 ~
+The '<' operator is reserved for future use.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordExc  
+   eption
+    + FullyQualifiedErrorId : RedirectionNotSupported
+
+PS C:\Users\User\Projects\GitR_A\L4> git reflog
+56afaef (HEAD -> master, merge_demo) HEAD@{0}: checkout: moving from master to master
+56afaef (HEAD -> master, merge_demo) HEAD@{1}: merge merge_demo: Fast-forward    
+c1d19c2 HEAD@{2}: checkout: moving from merge_demo to master
+56afaef (HEAD -> master, merge_demo) HEAD@{3}: commit: merge demo commit
+c1d19c2 HEAD@{4}: checkout: moving from master to merge_demo
+c1d19c2 HEAD@{5}: commit: Commit with valid message
+21d30fc HEAD@{6}: commit: Apply patch for notes change
+9a1cf7d HEAD@{7}: reset: moving to HEAD^
+fae669a HEAD@{8}: commit: Change notes for patch demo
+9a1cf7d HEAD@{9}: checkout: moving from master to master
+9a1cf7d HEAD@{10}: reset: moving to HEAD
+9a1cf7d HEAD@{11}: checkout: moving from feature_1 to master
+9dab5aa (feature_1) HEAD@{12}: rebase (finish): returning to refs/heads/feature_1
+9dab5aa (feature_1) HEAD@{13}: rebase (squash): squash: step 1
+2e75678 HEAD@{14}: rebase (squash): # This is a combination of 2 commits.        
+cd458df HEAD@{15}: rebase (start): checkout HEAD~3
+a76c9c7 HEAD@{16}: commit: squash: step 3
+298adac HEAD@{17}: commit: squash: step 2
+cd458df HEAD@{18}: commit: squash: step 1
+3a782a8 HEAD@{19}: commit: squash: step 3
+01f0987 HEAD@{20}: commit: squash: step 2
+9bc5b95 HEAD@{21}: commit: squash: step 1
+385f270 HEAD@{22}: commit: squash: step 3
+a7e377f HEAD@{23}: commit: squash: step 2
+077889e HEAD@{24}: commit: squash: step 1
+469c609 HEAD@{25}: rebase (abort): returning to refs/heads/feature_1
+f992774 (feature_squash) HEAD@{26}: commit: squash: step 3
+a2e3adf HEAD@{27}: commit: squash: step 2
+...skipping...
+56afaef (HEAD -> master, merge_demo) HEAD@{0}: checkout: moving from master to master
+56afaef (HEAD -> master, merge_demo) HEAD@{1}: merge merge_demo: Fast-forward    
+c1d19c2 HEAD@{2}: checkout: moving from merge_demo to master
+56afaef (HEAD -> master, merge_demo) HEAD@{3}: commit: merge demo commit
+c1d19c2 HEAD@{4}: checkout: moving from master to merge_demo
+c1d19c2 HEAD@{5}: commit: Commit with valid message
+21d30fc HEAD@{6}: commit: Apply patch for notes change
+9a1cf7d HEAD@{7}: reset: moving to HEAD^
+fae669a HEAD@{8}: commit: Change notes for patch demo
+9a1cf7d HEAD@{9}: checkout: moving from master to master
+9a1cf7d HEAD@{10}: reset: moving to HEAD
+9a1cf7d HEAD@{11}: checkout: moving from feature_1 to master
+9dab5aa (feature_1) HEAD@{12}: rebase (finish): returning to refs/heads/feature_1
+9dab5aa (feature_1) HEAD@{13}: rebase (squash): squash: step 1
+2e75678 HEAD@{14}: rebase (squash): # This is a combination of 2 commits.        
+cd458df HEAD@{15}: rebase (start): checkout HEAD~3
+a76c9c7 HEAD@{16}: commit: squash: step 3
+298adac HEAD@{17}: commit: squash: step 2
+cd458df HEAD@{18}: commit: squash: step 1
+3a782a8 HEAD@{19}: commit: squash: step 3
+01f0987 HEAD@{20}: commit: squash: step 2
+9bc5b95 HEAD@{21}: commit: squash: step 1
+385f270 HEAD@{22}: commit: squash: step 3
+a7e377f HEAD@{23}: commit: squash: step 2
+077889e HEAD@{24}: commit: squash: step 1
+469c609 HEAD@{25}: rebase (abort): returning to refs/heads/feature_1
+f992774 (feature_squash) HEAD@{26}: commit: squash: step 3
+a2e3adf HEAD@{27}: commit: squash: step 2
+d0d28ec HEAD@{28}: commit: squash: step 1
+/bin/sh: -c: line 1: syntax error near unexpected token `newline'
+/bin/sh: -c: line 1: `lessecho -p0x22 -d0x22 -e\\ -n0x3b -n0x20 -n0x2a -n0x3f -n0x9 -n0xa -n0x27 -n0x22 -n0x28 -n0x29 -n0x3c -n0x3e -n0x5b -n0x5d -n0x7c -n0x26 -n0x5e -n0x60 -n0x23 -n0x5c -n0x24 -n0x25 -n0x3d -n0x7e -n0x7b -n0x7d -n0x2c -- et --hard <старий_hash_з_reflog>'
+c9a50e6 (feature_2) HEAD@{29}: checkout: moving from c9a50e68e5571e27d830dc0c141e11a291f7b98a to feature_squash
+c9a50e6 (feature_2) HEAD@{30}: rebase (start): checkout feature_2
+469c609 HEAD@{31}: checkout: moving from feature_2 to feature_1
+c9a50e6 (feature_2) HEAD@{32}: commit: feature_2: change 1
+9a1cf7d HEAD@{33}: checkout: moving from master to feature_2
+9a1cf7d HEAD@{34}: checkout: moving from feature_1 to master
+469c609 HEAD@{35}: commit: feature_1: change 2
+2f9dbe9 HEAD@{36}: commit: feature_1: change 1
+9a1cf7d HEAD@{37}: checkout: moving from master to feature_1
+9a1cf7d HEAD@{38}: commit (initial): Initial commit for lab4
+
+PS C:\Users\User\Projects\GitR_A\L4> 

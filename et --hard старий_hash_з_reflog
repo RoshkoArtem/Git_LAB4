@@ -1,0 +1,39 @@
+[33m56afaef[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mmerge_demo[m[33m)[m HEAD@{0}: checkout: moving from master to master
+[33m56afaef[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mmerge_demo[m[33m)[m HEAD@{1}: merge merge_demo: Fast-forward
+[33mc1d19c2[m HEAD@{2}: checkout: moving from merge_demo to master
+[33m56afaef[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mmerge_demo[m[33m)[m HEAD@{3}: commit: merge demo commit
+[33mc1d19c2[m HEAD@{4}: checkout: moving from master to merge_demo
+[33mc1d19c2[m HEAD@{5}: commit: Commit with valid message
+[33m21d30fc[m HEAD@{6}: commit: Apply patch for notes change
+[33m9a1cf7d[m HEAD@{7}: reset: moving to HEAD^
+[33mfae669a[m HEAD@{8}: commit: Change notes for patch demo
+[33m9a1cf7d[m HEAD@{9}: checkout: moving from master to master
+[33m9a1cf7d[m HEAD@{10}: reset: moving to HEAD
+[33m9a1cf7d[m HEAD@{11}: checkout: moving from feature_1 to master
+[33m9dab5aa[m[33m ([m[1;32mfeature_1[m[33m)[m HEAD@{12}: rebase (finish): returning to refs/heads/feature_1
+[33m9dab5aa[m[33m ([m[1;32mfeature_1[m[33m)[m HEAD@{13}: rebase (squash): squash: step 1
+[33m2e75678[m HEAD@{14}: rebase (squash): # This is a combination of 2 commits.
+[33mcd458df[m HEAD@{15}: rebase (start): checkout HEAD~3
+[33ma76c9c7[m HEAD@{16}: commit: squash: step 3
+[33m298adac[m HEAD@{17}: commit: squash: step 2
+[33mcd458df[m HEAD@{18}: commit: squash: step 1
+[33m3a782a8[m HEAD@{19}: commit: squash: step 3
+[33m01f0987[m HEAD@{20}: commit: squash: step 2
+[33m9bc5b95[m HEAD@{21}: commit: squash: step 1
+[33m385f270[m HEAD@{22}: commit: squash: step 3
+[33ma7e377f[m HEAD@{23}: commit: squash: step 2
+[33m077889e[m HEAD@{24}: commit: squash: step 1
+[33m469c609[m HEAD@{25}: rebase (abort): returning to refs/heads/feature_1
+[33mf992774[m[33m ([m[1;32mfeature_squash[m[33m)[m HEAD@{26}: commit: squash: step 3
+[33ma2e3adf[m HEAD@{27}: commit: squash: step 2
+[33md0d28ec[m HEAD@{28}: commit: squash: step 1
+[33mc9a50e6[m[33m ([m[1;32mfeature_2[m[33m)[m HEAD@{29}: checkout: moving from c9a50e68e5571e27d830dc0c141e11a291f7b98a to feature_squash
+[33mc9a50e6[m[33m ([m[1;32mfeature_2[m[33m)[m HEAD@{30}: rebase (start): checkout feature_2
+[33m469c609[m HEAD@{31}: checkout: moving from feature_2 to feature_1
+[33mc9a50e6[m[33m ([m[1;32mfeature_2[m[33m)[m HEAD@{32}: commit: feature_2: change 1
+[33m9a1cf7d[m HEAD@{33}: checkout: moving from master to feature_2
+[33m9a1cf7d[m HEAD@{34}: checkout: moving from feature_1 to master
+[33m469c609[m HEAD@{35}: commit: feature_1: change 2
+[33m2f9dbe9[m HEAD@{36}: commit: feature_1: change 1
+[33m9a1cf7d[m HEAD@{37}: checkout: moving from master to feature_1
+[33m9a1cf7d[m HEAD@{38}: commit (initial): Initial commit for lab4

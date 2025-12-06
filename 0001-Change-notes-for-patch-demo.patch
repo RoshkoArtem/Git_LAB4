@@ -1,0 +1,22 @@
+From fae669ae9c06bcdda0756370187f712e0c60a968 Mon Sep 17 00:00:00 2001
+From: RoshkoArtem <roshko.artem.clg@chnu.edu.ua>
+Date: Sat, 6 Dec 2025 18:53:20 +0200
+Subject: [PATCH] Change notes for patch demo
+
+---
+ notes.txt | Bin 42 -> 134 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+diff --git a/notes.txt b/notes.txt
+index 6b050b2c436a3d1f395e46474abbb01331000990..6bcebdc5c0891bd334c365989c8e7b6d539dae50 100644
+GIT binary patch
+delta 98
+zcmdODW1OHBqr_stV#DIjV!-0aV#i_xq!k#<fg)inwqUkBiz$l(5SswSiy2B75`km}
+b11|#?gE*2Z6BcV0f1nC`pdKf%X&@B<u2u|o
+
+delta 5
+McmZo;)S93L00eIVYybcN
+
+-- 
+2.52.0.windows.1
+
